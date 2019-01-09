@@ -130,7 +130,7 @@ var UserProfile = React.createClass({ displayName: 'UserProfile',
 			React.createElement('div', { className: 'UserProfile' },
 				React.createElement('div', { className: 'User' },
 					React.createElement('div', { className: 'name' }, 'Oscar Fuentes'),
-					React.createElement('div', { className: 'image' }, React.createElement('img', { src: '/img/me.jpg' }))),
+					React.createElement('div', { className: 'image' }, React.createElement('img', { src: 'http://www.avatarsdb.com/avatars/funny_penguin.gif' }))),
 
 				React.createElement('div', { className: 'UserProfile-menu' },
 					React.createElement('div', { className: 'UserProfileSwitch' },
