@@ -137,7 +137,7 @@ var UserProfile = React.createClass({ displayName: 'UserProfile',
 						React.createElement('ul', null,
 							React.createElement('li', null,
 								React.createElement('div', { className: 'UserProfile-image' },
-									React.createElement('img', { src: 'http://lorempixel.com/96/96' })),
+									React.createElement('img', { src: 'https://lorempixel.com/96/96' })),
 
 								React.createElement('div', { className: 'UserProfile-name' }, 'Alexander')),
 
@@ -145,7 +145,7 @@ var UserProfile = React.createClass({ displayName: 'UserProfile',
 
 							React.createElement('li', null,
 								React.createElement('div', { className: 'UserProfile-image' },
-									React.createElement('img', { src: 'http://lorempixel.com/96/96' })),
+									React.createElement('img', { src: 'https://lorempixel.com/96/96' })),
 
 								React.createElement('div', { className: 'UserProfile-name' }, 'Mattias')))),
 
